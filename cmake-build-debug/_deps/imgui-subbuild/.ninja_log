@@ -1,0 +1,23 @@
+# ninja log v5
+2	55	7371713614641580	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	7c0f12be8c223c
+1746	1786	7371716081730469	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	a3a96b7e29cb89fd
+1668	1706	7371716080949918	C:/Users/Ben/CLionProjects/BasicRender/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	967eba9052c77680
+3	1591	7371716079793936	C:/Users/Ben/CLionProjects/BasicRender/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	d8bd47807fcd89f3
+1591	1629	7371716080174689	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	e9b4dbdde575cbbb
+2	55	7371713614641580	C:/Users/Ben/CLionProjects/BasicRender/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	7c0f12be8c223c
+3	1591	7371716079793936	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	d8bd47807fcd89f3
+3	1591	7371716079793936	imgui-populate-prefix/src/v1.90.6-docking.tar.gz	d8bd47807fcd89f3
+3	1591	7371716079793936	C:/Users/Ben/CLionProjects/BasicRender/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/v1.90.6-docking.tar.gz	d8bd47807fcd89f3
+1591	1629	7371716080174689	C:/Users/Ben/CLionProjects/BasicRender/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	e9b4dbdde575cbbb
+1746	1786	7371716081730469	C:/Users/Ben/CLionProjects/BasicRender/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	a3a96b7e29cb89fd
+1629	1668	7371716080559785	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	52c8051e8392c2e
+1629	1668	7371716080559785	C:/Users/Ben/CLionProjects/BasicRender/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	52c8051e8392c2e
+1668	1706	7371716080949918	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	967eba9052c77680
+1707	1746	7371716081345323	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	14bc3043a41cb7ec
+1828	1883	7371716082717321	CMakeFiles/imgui-populate-complete	c0c1400cce535d27
+1707	1746	7371716081345323	C:/Users/Ben/CLionProjects/BasicRender/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	14bc3043a41cb7ec
+1786	1828	7371716082164030	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	fd6e4698f1a08909
+1786	1828	7371716082164030	C:/Users/Ben/CLionProjects/BasicRender/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	fd6e4698f1a08909
+1828	1883	7371716082717321	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	c0c1400cce535d27
+1828	1883	7371716082717321	C:/Users/Ben/CLionProjects/BasicRender/cmake-build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete	c0c1400cce535d27
+1828	1883	7371716082717321	C:/Users/Ben/CLionProjects/BasicRender/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	c0c1400cce535d27
