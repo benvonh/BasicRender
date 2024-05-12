@@ -64,10 +64,21 @@ if (NOT imgui_FOUND)
 endif()
 
 ########################################################################################################################
-add_executable(${PROJECT_NAME} main.cpp)
-target_link_libraries(${PROJECT_NAME} raylib imgui)
+add_executable(${PROJECT_NAME}
+        main.cpp
+        window.hpp
+)
+target_link_libraries(${PROJECT_NAME}
+        raylib
+        imgui
+)
 target_include_directories(${PROJECT_NAME}
         PRIVATE ${raylib_SOURCE_DIR}/src/
         PRIVATE ${rlimgui_SOURCE_DIR}
         PRIVATE ${imgui_SOURCE_DIR}
+)
+include_directories(
+        ${raylib_SOURCE_DIR}/src/
+        ${rlimgui_SOURCE_DIR}
+        ${imgui_SOURCE_DIR}
 )
